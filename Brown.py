@@ -50,7 +50,7 @@ def diffuse(T,D,dt,n):
 
 #Driver functions, write your own or uncomment below
 #one_dim(100,100)
-#two_dim(1000)
+#two_dim(10000000)
 #for i in range(5):
 #    a=diffuse(30*(i+1),1,1,10000)
 #    plt.show()
